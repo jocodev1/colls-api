@@ -1,0 +1,22 @@
+{
+  "name": "colls-api",
+  "version": "1.0.0",
+  "description": "A custom Node JS API framework built on top of Express JS.",
+  "main": "app.js",
+  "dependencies": {
+    "app-root-dir": "^1.0.2",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.1",
+    "node-env-file": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Collier Devlin",
+  "license": "MIT"
+}
